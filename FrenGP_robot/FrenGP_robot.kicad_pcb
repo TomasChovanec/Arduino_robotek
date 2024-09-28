@@ -1671,6 +1671,7 @@
 			(uuid "971c2c03-adac-4021-9206-3d0b3880e8c2")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-12_W10.16mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2529,6 +2530,7 @@
 			(uuid "e7d903ec-3c42-468b-9117-2a0aa4b6254a")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-12_W10.16mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3398,6 +3400,7 @@
 			(uuid "8b4acd09-b405-425b-bd9f-5dc2de696042")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-12_W10.16mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4143,6 +4146,7 @@
 			(uuid "9808707f-95f4-4f34-9012-b89d3e93a203")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-12_W10.16mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5009,6 +5013,7 @@
 			(uuid "c5d7482e-d1d1-4cff-bd73-e45938f71cd6")
 		)
 		(model "${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-12_W10.16mm.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)

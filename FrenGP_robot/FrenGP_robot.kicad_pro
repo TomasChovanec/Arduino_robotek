@@ -483,9 +483,9 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "FrenGP_robot.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "FrenGP_robot.wrl"
     },
     "page_layout_descr_file": ""
   },
