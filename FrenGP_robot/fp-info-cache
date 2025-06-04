@@ -1,4 +1,4 @@
-25601027421927069
+25606274538883686
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57155,12 +57155,33 @@ THT DIP DIL PDIP 2.54mm 10.16mm 400mil
 12
 12
 DRV_8833_module
+HC-05 header
+
+
+0
+6
+6
+DRV_8833_module
 HC-SR04_module
 12-lead though-hole mounted DIP package, row spacing 10.16 mm (400 mils)
 THT DIP DIL PDIP 2.54mm 10.16mm 400mil
 0
 4
 4
+DRV_8833_module
+IR sensor header
+
+
+0
+7
+7
+DRV_8833_module
+OLED display header
+
+
+0
+0
+0
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
