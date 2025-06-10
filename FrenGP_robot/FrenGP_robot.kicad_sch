@@ -3577,7 +3577,7 @@
 			)
 		)
 	)
-	(global_label "Blinker_R"
+	(global_label "Blinker_L"
 		(shape input)
 		(at 132.08 123.19 90)
 		(fields_autoplaced yes)
@@ -3589,7 +3589,7 @@
 		)
 		(uuid "5c9a998d-f68a-49e8-ad1c-1e41a869948c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 132.08 111.3753 90)
+			(at 132.08 111.6172 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3643,7 +3643,7 @@
 			)
 		)
 	)
-	(global_label "Blinker_L"
+	(global_label "Blinker_R"
 		(shape input)
 		(at 121.92 123.19 90)
 		(fields_autoplaced yes)
@@ -3655,7 +3655,7 @@
 		)
 		(uuid "69ff6a67-c535-458e-bd0b-c85a643905f1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.92 111.6172 90)
+			(at 121.92 111.3753 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6061,7 +6061,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Buzzer_Beeper:Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm"
+		(property "Footprint" "Buzzer_Beeper:Buzzer_12x9.5RM7.6"
 			(at 120.015 90.17 90)
 			(effects
 				(font
